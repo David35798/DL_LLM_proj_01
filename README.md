@@ -562,3 +562,9 @@ streamlit run app.py
 ## 프로젝트 한 줄 소개
 
 스마트폰 사용 패턴 데이터를 기반으로 딥러닝 모델이 중독 위험도를 예측하고, Gemini LLM이 사용자 맞춤형 분석과 관리 리포트를 제공하는 AI 기반 스마트폰 사용 습관 관리 시스템입니다.
+
+## 프로젝트 상세 자료
+
+프로젝트의 전체 설명 자료는 아래 링크에서 확인할 수 있습니다.
+
+- 설명 자료 보기 https://docs.google.com/presentation/d/1VMOTFrUFQRdhQWjFOG1zJSRasnTDbc3I/edit?usp=sharing&ouid=113197474989675182723&rtpof=true&sd=true
