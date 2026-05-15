@@ -567,4 +567,4 @@ streamlit run app.py
 
 프로젝트의 전체 설명 자료는 아래 링크에서 확인할 수 있습니다.
 
-- 설명 자료 보기 https://docs.google.com/presentation/d/1VMOTFrUFQRdhQWjFOG1zJSRasnTDbc3I/edit?usp=sharing&ouid=113197474989675182723&rtpof=true&sd=true
+- [설명 자료 보기](https://docs.google.com/presentation/d/1VMOTFrUFQRdhQWjFOG1zJSRasnTDbc3I/edit?usp=sharing&ouid=113197474989675182723&rtpof=true&sd=true)
