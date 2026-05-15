@@ -1,0 +1,10 @@
+streamlit
+numpy
+pandas
+joblib
+scikit-learn
+tensorflow
+langchain-google-genai
+langchain-core
+google-generativeai
+reportlab
